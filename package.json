@@ -2,7 +2,7 @@
   "name": "test-project",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://kirill0186.github.io/chatroom-react-socket",
+  "homepage": "https://kirill0186.github.io/chatroom-react-socket",
   "dependencies": {
     "@material-ui/core": "^3.9.0",
     "body-parser": "^1.18.3",

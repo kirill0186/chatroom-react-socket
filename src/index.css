@@ -118,7 +118,6 @@ code {
 
 .user-message:nth-child(odd) {
   background: #eee;
-
 }
 
 .notification-message{
@@ -131,6 +130,3 @@ code {
 
 }
 
-.input-message-block{
-
-}
